@@ -1,4 +1,4 @@
-SpaceShip Shooter Game made with python pygame
+# SpaceShip Shooter Game made with python pygame
 
 Step to use:
 1. clone this repo
