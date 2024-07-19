@@ -1,0 +1,20 @@
+{
+  "python.analysis.typeCheckingMode": "basic",
+  "cSpell.words": [
+    "blit",
+    "bottomleft",
+    "centery",
+    "cooldown",
+    "darkgray",
+    "frect",
+    "KEYDOWN",
+    "midbottom",
+    "midtop",
+    "MOUSEMOTION",
+    "Oxanium",
+    "rotozoom",
+    "spritecollide",
+    "topleft"
+  ],
+  "python.analysis.autoImportCompletions": true
+}
